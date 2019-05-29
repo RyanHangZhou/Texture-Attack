@@ -1,0 +1,2 @@
+image#: 1  PSNR is not Inf.
+image#: 1Cover image is wrongly estimated to stego image.
