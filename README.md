@@ -7,6 +7,15 @@ This work is published on Transactions on Image Processing (TIP), 2017.
 
 We propose an attacking method on steganography proposed by [Wu et al.](https://ieeexplore.ieee.org/abstract/document/6957552/), which can not only detect the stego-images but can also extract the hidden messages. 
 
+
+Usage
+--
+
+
+    Put source images in the "origImg" directory.
+    Put corresponding synthetic images in "srcImg" directory.
+    Start from main.m
+
 Citation
 --
 If you find our work useful in your research, please consider citing:
@@ -21,15 +30,6 @@ If you find our work useful in your research, please consider citing:
       year={2017},
       publisher={IEEE}
     }
-
-
-Usage
---
-
-
-    Put source images in the "origImg" directory.
-    Put corresponding synthetic images in "srcImg" directory.
-    Start from main.m
-
+    
 License
 --
